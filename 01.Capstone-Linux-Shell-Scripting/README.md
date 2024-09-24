@@ -11,7 +11,7 @@ A partial table displaying the variable entered by the user within a range.
 
 ## Using the Cstyle Form for Loop
 
-Using the `Cstyle Form` for Loop, the table below displpays the script prompting to either display the table in an ascending or descending order.
+Using the ``Cstyle Form`` for Loop, the table below displpays the script prompting to either display the table in an ascending or descending order.
 
 ![ascending_table](./img/ascending_order.png)
 
